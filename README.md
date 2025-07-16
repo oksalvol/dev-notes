@@ -37,25 +37,55 @@
 
 
 ### 1. Semantic HTML
-- [ ] Learn the purpose of semantic tags
-- [ ] Study key elements: `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<footer>`
-- [ ] Understand how semantic HTML improves accessibility and SEO
+- [x] Learn the purpose of semantic tags
+- [x] Study key elements: `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<footer>`
+- [x] Understand how semantic HTML improves accessibility and SEO
 
 ### 2. HTML Forms Basics
-- [ ] Learn how to create forms with `<form>`
-- [ ] Use input types: `text`, `email`, `password`, `checkbox`, `radio`, `submit`, `button`
-- [ ] Learn labels, placeholders, and basic validation (`required`, `minlength`, etc.)
+- [x] Learn how to create forms with `<form>`
+- [x] Use input types: `text`, `email`, `password`, `checkbox`, `radio`, `submit`, `button`
+- [x] Learn labels, placeholders, and basic validation (`required`, `minlength`, etc.)
 
 ### 3. CSS Layout Practice
-- [ ] Practice combining Flexbox with semantic layout
-- [ ] Learn nesting and structure of sections in HTML/CSS
-- [ ] Apply styles to make multi-section layout
+- [x] Practice combining Flexbox with semantic layout
+- [x] Learn nesting and structure of sections in HTML/CSS
+- [x] Apply styles to make multi-section layout
 
 ### 4. Developer Tools & Debugging
-- [ ] Explore browser DevTools (Elements, Styles, Console)
-- [ ] Inspect elements, box model, applied styles
+- [x] Explore browser DevTools (Elements, Styles, Console)
+- [x] Inspect elements, box model, applied styles
 
 ### Practical tasks for the day:
-- [ ] Build a multi-section page using semantic HTML
-- [ ] Create a form (e.g., sign-up form) with basic fields and validation
-- [ ] Use Flexbox to layout sections with spacing and alignment
+- [x] Build a multi-section page using semantic HTML
+- [x] Create a form (e.g., sign-up form) with basic fields and validation
+- [x] Use Flexbox to layout sections with spacing and alignment
+
+
+
+          Day 3
+
+### 1. Advanced Forms
+- [ ] Learn additional elements: `select`, `textarea`, `fieldset`, `legend`
+- [ ] Understand attributes: `name`, `value`, `checked`, `disabled`, `readonly`
+- [ ] Learn how form data is submitted (`action`, `method`)
+
+### 2. Introduction to Media Queries
+- [ ] Understand what responsive design is
+- [ ] Learn `@media` syntax
+- [ ] Apply styles for different screen sizes (mobile, tablet, desktop)
+
+### 3. Working with Colors and Fonts
+- [ ] Learn color formats: `hex`, `rgb`, `hsl`
+- [ ] Use custom fonts via `@import` or Google Fonts
+- [ ] Improve typography: `line-height`, `font-size`, `letter-spacing`
+
+### 4. Pseudo-classes and Pseudo-elements
+- [ ] Learn `:hover`, `:focus`, `:active`, `:checked`
+- [ ] Learn `::before`, `::after`
+- [ ] Style buttons and interactive elements with hover and effects
+
+### Practical tasks for the day:
+- [ ] Add selects and textareas to your form and style them
+- [ ] Build a simple responsive layout using media queries
+- [ ] Apply nice fonts and color palettes to your page
+- [ ] Add hover effects and pseudo-elements to buttons and sections
