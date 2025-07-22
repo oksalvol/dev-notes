@@ -89,3 +89,7 @@
 - [ ] Build a simple responsive layout using media queries
 - [ ] Apply nice fonts and color palettes to your page
 - [ ] Add hover effects and pseudo-elements to buttons and sections
+
+
+          Day 4
+[Смотреть Day 4](./day4/readme.md)
