@@ -65,31 +65,32 @@
           Day 3
 
 ### 1. Advanced Forms
-- [ ] Learn additional elements: `select`, `textarea`, `fieldset`, `legend`
-- [ ] Understand attributes: `name`, `value`, `checked`, `disabled`, `readonly`
-- [ ] Learn how form data is submitted (`action`, `method`)
+- [x] Learn additional elements: `select`, `textarea`, `fieldset`, `legend`
+- [x] Understand attributes: `name`, `value`, `checked`, `disabled`, `readonly`
+- [x] Learn how form data is submitted (`action`, `method`)
 
 ### 2. Introduction to Media Queries
-- [ ] Understand what responsive design is
-- [ ] Learn `@media` syntax
-- [ ] Apply styles for different screen sizes (mobile, tablet, desktop)
+- [x] Understand what responsive design is
+- [x] Learn `@media` syntax
+- [x] Apply styles for different screen sizes (mobile, tablet, desktop)
 
 ### 3. Working with Colors and Fonts
-- [ ] Learn color formats: `hex`, `rgb`, `hsl`
-- [ ] Use custom fonts via `@import` or Google Fonts
-- [ ] Improve typography: `line-height`, `font-size`, `letter-spacing`
+- [x] Learn color formats: `hex`, `rgb`, `hsl`
+- [x] Use custom fonts via `@import` or Google Fonts
+- [x] Improve typography: `line-height`, `font-size`, `letter-spacing`
 
 ### 4. Pseudo-classes and Pseudo-elements
-- [ ] Learn `:hover`, `:focus`, `:active`, `:checked`
-- [ ] Learn `::before`, `::after`
-- [ ] Style buttons and interactive elements with hover and effects
+- [x] Learn `:hover`, `:focus`, `:active`, `:checked`
+- [x] Learn `::before`, `::after`
+- [x] Style buttons and interactive elements with hover and effects
 
 ### Practical tasks for the day:
-- [ ] Add selects and textareas to your form and style them
-- [ ] Build a simple responsive layout using media queries
-- [ ] Apply nice fonts and color palettes to your page
-- [ ] Add hover effects and pseudo-elements to buttons and sections
+- [x] Add selects and textareas to your form and style them
+- [x] Build a simple responsive layout using media queries
+- [x] Apply nice fonts and color palettes to your page
+- [x] Add hover effects and pseudo-elements to buttons and sections
 
 
-          Day 4
 [View Day 4](./day4/readme.md)
+
+[View Day 5](./day5/readme.md)
