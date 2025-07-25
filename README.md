@@ -94,3 +94,5 @@
 [View Day 4](./day4/readme.md)
 
 [View Day 5](./day5/readme.md)
+
+[View Day 6](./day6/readme.md)
